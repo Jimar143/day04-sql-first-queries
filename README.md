@@ -10,7 +10,7 @@ Queries run against Day04_practice.db (SQLite). The database
 is excluded from this repository (see .gitignore). Reviewers
 can download it from the course LMS.
 ## Files
-- queries/employees_queries.sql — 10 queries on the employees table
-- queries/products_queries.sql — 10 queries on the products table
+- queries/employees/queries.sql — 10 queries on the employees table
+- queries/products/queries.sql — 10 queries on the products table
 ## Tools
 VS Code + SQLTools extension + SQLTools SQLite driver
