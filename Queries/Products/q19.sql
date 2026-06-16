@@ -1,5 +1,0 @@
---Q19: Show all products with stock_qty greater than or equal to 30
-SELECT * FROM Products
-WHERE stock_qty >= 30;
-
---Result: 5 rows

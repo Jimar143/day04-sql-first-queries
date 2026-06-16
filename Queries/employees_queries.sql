@@ -3,7 +3,7 @@
 -- Database: Day04_practice.db
 -- Date: Jun 14
 
-SELECT * FROM employees;
+SELECT * FROM Employees;
 
 --Result: 20 rows
 
